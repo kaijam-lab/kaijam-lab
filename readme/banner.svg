@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="751" viewBox="0 0 1100 751" role="img">
   <defs>
     <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#140A0C" />
-      <stop offset="45%" stop-color="#221016" />
-      <stop offset="100%" stop-color="#3A1A22" />
+      <stop offset="0%" stop-color="#07131A" />
+      <stop offset="45%" stop-color="#0C2430" />
+      <stop offset="100%" stop-color="#123A44" />
     </linearGradient>
     <linearGradient id="bannerGradSheen" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10" />
@@ -13,20 +13,20 @@
   </defs>
   <rect width="1100" height="751" rx="22" fill="url(#bannerGrad)" />
   <rect width="1100" height="751" rx="22" fill="url(#bannerGradSheen)" />
-  <text x="550" y="64" text-anchor="middle" fill="#F8FAFC" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">Ready to Collaborate</text>
-  <line x1="420" y1="138" x2="680" y2="138" stroke="#FECACA" stroke-width="1.5" stroke-opacity="0.45" />
-  <text x="550" y="172" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I am an AI engineer from Japan looking for a</text>
-  <text x="550" y="210" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">counterpart, not a freelancer.</text>
-  <text x="550" y="248" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">A lasting collaboration should leave both of</text>
-  <text x="550" y="286" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">us better off.</text>
-  <text x="550" y="324" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I can contribute around $3,000 / month without</text>
-  <text x="550" y="362" text-anchor="middle" fill="#FECDD3" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">asking for a huge time sink.</text>
-  <text x="550" y="430" text-anchor="middle" fill="#FECACA" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">From Japan, working in AI</text>
-  <text x="550" y="473" text-anchor="middle" fill="#FECACA" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Ready to collaborate long term</text>
-  <text x="550" y="516" text-anchor="middle" fill="#FECACA" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">About $3,000/month involved</text>
-  <path d="M456 595 L470 609 L484 595" fill="none" stroke="#FECACA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <path d="M536 595 L550 609 L564 595" fill="none" stroke="#FECACA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <path d="M616 595 L630 609 L644 595" fill="none" stroke="#FECACA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <rect x="420" y="643" width="260" height="52" rx="26" fill="#FFE4E6" />
-  <text x="550" y="676" text-anchor="middle" fill="#4C0519" font-family="Cormorant Garamond, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.8">Visit website</text>
+  <text x="550" y="64" text-anchor="middle" fill="#F8FAFC" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">Collaboration First</text>
+  <line x1="420" y1="138" x2="680" y2="138" stroke="#5EEAD4" stroke-width="1.5" stroke-opacity="0.45" />
+  <text x="550" y="172" text-anchor="middle" fill="#99F6E4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Collaboration first: I am a senior AI engineer</text>
+  <text x="550" y="210" text-anchor="middle" fill="#99F6E4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">originally from Japan.</text>
+  <text x="550" y="248" text-anchor="middle" fill="#99F6E4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I would rather find a counterpart than keep</text>
+  <text x="550" y="286" text-anchor="middle" fill="#99F6E4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">scaling this alone.</text>
+  <text x="550" y="324" text-anchor="middle" fill="#99F6E4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">A partner can expect about $3,000 a month for</text>
+  <text x="550" y="362" text-anchor="middle" fill="#99F6E4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">a small, steady role.</text>
+  <text x="550" y="430" text-anchor="middle" fill="#5EEAD4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Collaboration comes first</text>
+  <text x="550" y="473" text-anchor="middle" fill="#5EEAD4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Looking for a counterpart</text>
+  <text x="550" y="516" text-anchor="middle" fill="#5EEAD4" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">About $3,000 a month for a small role</text>
+  <path d="M456 595 L470 609 L484 595" fill="none" stroke="#5EEAD4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M536 595 L550 609 L564 595" fill="none" stroke="#5EEAD4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M616 595 L630 609 L644 595" fill="none" stroke="#5EEAD4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <rect x="420" y="643" width="260" height="52" rx="26" fill="#CCFBF1" />
+  <text x="550" y="676" text-anchor="middle" fill="#0B1220" font-family="DM Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.8">Visit website</text>
 </svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="730" viewBox="0 0 1100 730" role="img">
+  <defs>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1C1917" />
+      <stop offset="50%" stop-color="#78716C" />
+      <stop offset="100%" stop-color="#E7E5E4" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="730" rx="18" fill="url(#bannerGrad)" />
+  <text x="550" y="56" text-anchor="middle" fill="#1C1917" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Ready to Partner</text>
+  <text x="550" y="132" text-anchor="middle" fill="#1C1917" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I am ready to partner: Japan origin, senior AI</text>
+  <text x="550" y="172" text-anchor="middle" fill="#1C1917" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">engineering, live products.</text>
+  <text x="550" y="212" text-anchor="middle" fill="#1C1917" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Looking for someone who wants a beneficial,</text>
+  <text x="550" y="252" text-anchor="middle" fill="#1C1917" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">ongoing relationship.</text>
+  <text x="550" y="292" text-anchor="middle" fill="#1C1917" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">There is around $3,000 monthly in this for a</text>
+  <text x="550" y="332" text-anchor="middle" fill="#1C1917" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">small amount of work.</text>
+  <text x="550" y="398" text-anchor="middle" fill="#E7E5E4" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Live AI products, ready to partner</text>
+  <text x="550" y="444" text-anchor="middle" fill="#E7E5E4" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Ongoing, not a one-off</text>
+  <text x="550" y="490" text-anchor="middle" fill="#E7E5E4" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Around $3,000 monthly involved</text>
+  <path d="M408 570 L430 594 L452 570" fill="none" stroke="#E7E5E4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M528 570 L550 594 L572 570" fill="none" stroke="#E7E5E4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M648 570 L670 594 L692 570" fill="none" stroke="#E7E5E4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="410" y="626" width="280" height="56" rx="12" fill="#57534E" />
+  <text x="550" y="662" text-anchor="middle" fill="#FFFFFF" font-family="Merriweather, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Visit website</text>
+</svg>

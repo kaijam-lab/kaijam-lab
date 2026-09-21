@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="186" viewBox="0 0 1100 186" role="img">
+  <defs>
+    <linearGradient id="typingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E1065" />
+      <stop offset="50%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#DDD6FE" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="186" rx="16" fill="url(#typingGrad)" />
+  <text x="550" y="66" text-anchor="middle" fill="#DDD6FE" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Applied AI is my day job</text>
+  <text x="550" y="112" text-anchor="middle" fill="#DDD6FE" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">I need a dependable partner</text>
+  <text x="550" y="158" text-anchor="middle" fill="#DDD6FE" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Close to $3,000 each month</text>
+</svg>

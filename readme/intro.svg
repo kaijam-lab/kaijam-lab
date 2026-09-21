@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="288" viewBox="0 0 1100 288" role="img">
+  <defs>
+    <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E1065" />
+      <stop offset="50%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#DDD6FE" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="288" rx="16" fill="url(#introGrad)" />
+  <text x="550" y="62" text-anchor="middle" fill="#FFFFFF" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Japanese-born senior engineer focused on</text>
+  <text x="550" y="102" text-anchor="middle" fill="#FFFFFF" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">applied AI.</text>
+  <text x="550" y="142" text-anchor="middle" fill="#FFFFFF" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I need someone I can rely on while the</text>
+  <text x="550" y="182" text-anchor="middle" fill="#FFFFFF" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">business scales.</text>
+  <text x="550" y="222" text-anchor="middle" fill="#FFFFFF" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">The work is light relative to the return:</text>
+  <text x="550" y="262" text-anchor="middle" fill="#FFFFFF" font-family="Exo 2, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">close to $3,000 monthly.</text>
+</svg>
